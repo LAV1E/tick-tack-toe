@@ -80,4 +80,4 @@ const TickTacToe =()=>{
     </div>
   );
 }
-export default TickTacToe;
+export default TickTacToe; 
